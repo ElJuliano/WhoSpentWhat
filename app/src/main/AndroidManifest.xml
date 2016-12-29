@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AddParticipant" />
+        <activity android:name=".NewTransaction" />
+        <activity android:name=".NewSharingEvent"></activity>
     </application>
 
 </manifest>
